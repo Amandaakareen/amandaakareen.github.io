@@ -50,7 +50,7 @@ export function App() {
         </div>
       </div>
       <div className="divpai">
-        <div id="inicio" className="testado">
+        <div id="inicio" className="testando">
           <div className="inicio">
             <header>
               <h2>Oi, eu sou </h2>

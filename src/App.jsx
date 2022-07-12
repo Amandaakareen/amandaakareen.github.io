@@ -55,8 +55,11 @@ export function App() {
             <header>
               <h2>Oi, eu sou </h2>
               <h1>Amanda Karen.</h1>
-              <h2>Desenvolvedora Front-end</h2>
-              <a href="">Linkdin</a>
+              <h3>Desenvolvedora Front-end</h3>
+              <a href="https://www.linkedin.com/in/amanda-karen-247b66241">
+                Linkdin
+              </a>
+              <a href="https://github.com/Amandaakareen">Github</a>
             </header>
             <div>
               <img src={img} alt="" />
